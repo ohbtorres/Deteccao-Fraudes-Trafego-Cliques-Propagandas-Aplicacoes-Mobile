@@ -1,10 +1,10 @@
 # Deteccao-Fraudes-Trafego-Cliques-Propagandas-Aplicacoes-Mobile
-Modelo de aprendizado de máquina para determinar se um clique é fraudulento ou não.
+Modelo de aprendizado de máquina para determinar se um clique é fraudulento ou não.\n
 Projeto executado a partir do dataset disponibizado na competição do Kaggle: https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
 
 # Descrição dos arquivos
 
-train.csv - dados de treino
+train.csv - dados de treino\n
 train_sample.csv - amostra dos dados de treino
 test.csv - dados de teste
 
