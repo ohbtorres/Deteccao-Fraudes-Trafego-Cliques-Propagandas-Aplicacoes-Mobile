@@ -1,4 +1,4 @@
-# Deteccao-Fraudes-Trafego-Cliques-Propagandas-Aplicacoes-Mobile
+# Detecção de Fraudes em Tráfego de Cliques em Propagandas de Aplicacoes Mobile
 Modelo de aprendizado de máquina para determinar se um clique é fraudulento ou não.
 
 Projeto executado a partir do dataset disponibizado na competição do Kaggle: https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
