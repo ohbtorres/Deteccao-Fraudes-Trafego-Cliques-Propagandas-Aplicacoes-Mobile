@@ -5,7 +5,7 @@ Projeto executado a partir do dataset disponibizado na competição do Kaggle: h
 
 # Descrição dos arquivos
 
-train.csv - dados de treino\n
+train.csv - dados de treino
 
 train_sample.csv - amostra dos dados de treino
 
